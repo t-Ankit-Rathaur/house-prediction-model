@@ -1,7 +1,8 @@
 [project]
-name = "house-prediction-model"
+name = "house-price-prediction-model"
 version = "0.1.0"
-description = "Add your description here"
+description = "A machine learning model to predict house prices using Streamlit for UI"
+authors = ["Ankit <rathaurankit8840@gmail.com>"]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
