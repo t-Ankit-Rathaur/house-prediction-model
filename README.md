@@ -29,13 +29,13 @@ HOUSE-PRICE-PREDICTION-MODEL/
 
 ## Quickstart
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/yourusername/house-prediction-model.git
 cd house-prediction-model
 
-# Install dependencies using uv
+### Install dependencies using uv
 uv pip install
 
-# Launch Streamlit app
+### Launch Streamlit app
 streamlit run src/main.py
 
