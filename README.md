@@ -2,6 +2,7 @@
 - An end-to-end regression model using Python, Streamlit, and scikit-learn to estimate housing prices. Built for modularity, maintainability, and scalability.
 
 ### Project Structure
+<pre>
 HOUSE-PRICE-PREDICTION-MODEL/
 ├── .venv/                 # Virtual environment created via uv
 ├── .gitignore             # Git exclusions
@@ -24,7 +25,7 @@ HOUSE-PRICE-PREDICTION-MODEL/
 │
 └── src/
     └── main.py            # Streamlit app and ML pipeline
-
+</pre>
 
 ## Quickstart
 
