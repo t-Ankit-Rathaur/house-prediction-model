@@ -36,7 +36,7 @@ def train_model():
 # Define main() function 
 def main():
     # the title of the streamlit app
-    st.title("Simple Linear Regression House Prediction Model")
+    st.title("Simple Linear Regression: House Price Prediction Model")
     
     # Call write function of streamlit 
     st.write("Put in your House Size to know its price")
