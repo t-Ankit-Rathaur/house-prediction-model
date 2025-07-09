@@ -135,7 +135,7 @@ wheels = [
 ]
 
 [[package]]
-name = "house-prediction-model"
+name = "house-prices-prediction-model"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
